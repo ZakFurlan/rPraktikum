@@ -1,0 +1,2 @@
+# rPraktikum
+FMF - računalniški praktikum
